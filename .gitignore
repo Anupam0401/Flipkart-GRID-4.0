@@ -1,0 +1,14 @@
+# Virtualenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+*.env
+pip-selfcheck.json
+
+# ignore the env folder and all files in it
+env/
