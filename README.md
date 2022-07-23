@@ -16,12 +16,12 @@ used on Flipkart app.
 
 ## Get Started
 - Clone the repo
-- Run the command:
-  - create a virtual environment
-`
-python3 -m venv venv
-`
-  - Activate the virtual environment
-`
-source venv/bin/activate
-`
+- Run the following  commands in order:
+    - create a virtual environment
+    ```bash
+    python3 -m venv env
+    ```
+    - Activate the virtual environment (env) by going into the following relative path
+    ```bash
+    \env\Scripts\activate
+    ```
