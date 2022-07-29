@@ -1,5 +1,5 @@
 # Flipkart-GRID-4.0
-The repo contains our approach and idea to solve Level 2 problem statement (PS 3) in FLipkart GRID 4.0
+The repo contains our approach and idea to solve Level 2 problem statement (PS #3) in FLipkart GRID 4.0
 
 # Extract Trends from social media data
 - As part of this challenge, teams are expected to identify trends from social media data
