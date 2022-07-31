@@ -4,8 +4,8 @@ The repo contains our approach and idea to solve Level 2 problem statement (PS #
 **Refer [this](https://github.com/Anupam0401/Flipkart-GRID-4.0/blob/master/DTYDHTCode.pdf) document for the solution submitted by our team DTYDHTCode**
 
 ## Team DTYDHTCode:
-- [Anupam Kumar](https://github.com/Anupam0401), IIT Bhilai, B.Tech, CSE @Anupam0401
-- [Ritik Dhanore](https://github.com/RitikDhanore), IIT Bhilai, B.Tech, CSE
+- [Anupam Kumar](https://github.com/Anupam0401), IIT Bhilai, B.Tech 2019-23, CSE
+- [Ritik Dhanore](https://github.com/RitikDhanore), IIT Bhilai, B.Tech 2019-23, CSE
 
 # Extract Trends from social media data
 - The official problem statement can be found [here](https://github.com/Anupam0401/Flipkart-GRID-4.0/blob/master/PS-Extract%20trends%20from%20social%20media.pdf)
