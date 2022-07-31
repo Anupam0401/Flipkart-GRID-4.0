@@ -1,0 +1,13 @@
+fashion_keywords=["#apparel" ,"#clothes" ,"#clothing" ,"#clothingbrand", "#clothingstyle" ,"#design","#fashion" ,"#fashionstyle","#instafashion" ,"#lifestyle" ,"#mensfashion" ,"#model" ,"#outfit" ,"#streetstyle" ,"#streetwear" ,"#style" ,"#tshirt","#Jackets","#handbags"]
+
+electronics_keywords=["#phone","#computers","#android","#cell","#tech","#innovation","tablets","#Deals","#watch"]
+
+Home_Furniture_keywords=["#art","#artist","#wallpaper","#flowers","#summer","#home","#beach","#homedecor","#luxury","#property","#Rumah","#lamps","#tea","#coffee","#mugs","#gifts","#giftideas","#design","#homedesign"]
+
+Sports_More_keywords=["#workness","#fitness","#health","#diet","#yoga","#gym","#weightloss","#training","#fit","#tennis","#cricket","#badminton","#squash","#NowPlaying","#shuttles","#skateboard","#skater","#skate","#camping","#travel","#outdoors","#vlog","#pool","#swimwear","#swim"]
+
+Beauty_keywords=["#makeup","#glamour","#cosmetics","#lips","#eyeshadow","#model","#skincare","#checkitout","#instamakeup","#dental"]
+
+Books_Stationaries_keywords =["#book","#fantasy","#reading","#Amazon","#amreading","#authors","#bookworm","#Kindle","#books","#writing","#read","#chemistry","#poetry","#Statistics","#Nursing","#biology","#English","#Pens","#pencil","#comics"]
+
+baby_kids_keywords=["#cutebaby","#games","#Marvel","#kids","#toys","#kindergarden","#newborn","#schools"]
