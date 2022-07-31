@@ -2,6 +2,7 @@
 The repo contains our approach and idea to solve Level 2 problem statement (PS #3) in FLipkart GRID 4.0
 
 # Extract Trends from social media data
+- The official problem statement can be found [here](https://github.com/Anupam0401/Flipkart-GRID-4.0/blob/master/PS-Extract%20trends%20from%20social%20media.pdf)
 - As part of this challenge, teams are expected to identify trends from social media data
 - From all the products available on Flipkart identify trending products, utilize all signals available (ex. posts, sessions, check-ins, social graphs, media content, etc.). Output should also have photos, videos, gifs which can be
 used on Flipkart app.
