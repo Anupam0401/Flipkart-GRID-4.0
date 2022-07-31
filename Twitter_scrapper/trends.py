@@ -1,7 +1,7 @@
 import time
 import tweets as tw 
 from datetime import datetime, timedelta
-# # run script every 10 minutes past 5 hours 
+# run script every 10 minutes past 5 hours 
 
 while 1:
     tw.top_trends()
