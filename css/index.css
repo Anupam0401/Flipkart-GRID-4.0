@@ -1,0 +1,234 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+html,
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* ______________________________________navbar_________________________________________________ */
+.navbar-brand {
+  color: white;
+  font-weight: bolder;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #282c34;
+}
+
+#navbar-section {
+  background-color: #282c34;
+}
+
+/* ________________________________________menu header __________________________________________________ */
+header {
+  font-weight: bolder;
+  display: flex;
+  height: 20%;
+  align-items: center;
+  overflow: auto;
+  font-size: small;
+}
+/* ______________________________________________heading___________________________________________________ */
+#category_heading {
+  font-weight: bolder;
+  font-family: 'Shojumaru', cursive;
+  color: #282c34;
+  display: flex;
+  justify-content: center;
+  background: #f2f2f2;
+  height: 60px;
+  align-items: center;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+header::-webkit-scrollbar {
+  width: 0 !important
+}
+
+/* __________________________________________different cards________________________________________________ */
+.card-img .img-fluid {
+
+  height: 61px;
+  border-radius: 50%;
+}
+
+.card-img:hover {
+  transform: scale(1.3);
+  transition: all 300ms ease-in-out;
+  z-index: 2;
+}
+
+.myCard {
+  padding-left: 34px;
+  padding-right: 34px;
+  margin-bottom: 5px;
+}
+
+.card-img,
+.card-img-bottom {
+  border-bottom-right-radius: calc(0.25rem - 1px);
+  border-bottom-left-radius: calc(0.25rem - 1px);
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  border: 0;
+  width: 120px;
+  height: 100%;
+  padding: 5px;
+  margin: 1px;
+}
+
+.caption {
+  text-align: center;
+}
+
+.caption a {
+  color: #282c34;
+  text-decoration: none;
+  font-weight: 400;
+  font-family: 'Shojumaru', cursive;
+  word-wrap: break-word;
+  display: flex;
+  justify-content: center;
+  background-attachment: fixed;
+  border: 7px;
+}
+
+.caption a:hover {
+  color: #61dafb;
+}
+/* ___________________________________________________________________landing page ________________________________________________________ */
+main {
+  background-color: #282c34;
+ 
+}
+
+main .row {
+  min-height: 83.5vh;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/* _________________________leftCol intro section____________________ */
+#intro-content {
+  color: #081841;
+  font-size: x-large;
+  font-weight: bolder;
+  border-radius: 18px;
+  box-shadow: 10px 10px 5px 0px rgb(71, 68, 68);
+}
+
+#intro-content {
+  background-color: white;
+  margin: 14px;
+}
+
+#intro-content .text{
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-family: 'Lemonada', cursive;
+  font-family: 'Mochiy Pop One', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+}
+
+p{
+  margin-top: 0;
+  margin-bottom: 0rem;
+}
+
+main .btn {
+  background-color: #081841;
+  box-shadow: 0px 10px 10px 2px grey;
+  font-weight: bolder;
+  font-size: larger;
+  border-radius: 2.25rem;
+
+}
+
+main .btn:hover {
+  transform: scale(1.1);
+  transition: all 300ms ease-in-out;
+  z-index: 2;
+  border: 5px solid #61dafb;
+}
+
+#intro-btn a {
+  text-decoration: none;
+}
+
+/* _________________________rightCol intro section____________________ */
+#landing_img {
+  background-image: url("../assets/scrapping.gif");
+  background-repeat: no-repeat;
+  border-radius: 2%;
+  height: 400px;
+  width: 500px;
+  background-size: cover;
+  background-position: center;
+  margin: 14px;
+  box-shadow: 10px 10px 5px 0px rgb(71, 68, 68);
+}
+
+@media (max-width: 668px) {
+  .myCard {
+      padding-left: 0px;
+      padding-right: 1px;
+      margin-bottom: 2px;
+  }
+}
+/*------------NAV BAR Contact us----------*/
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+  font-weight: bolder;
+  cursor: pointer;
+  font-size: 1.3em;
+  padding: 5px;
+  background-color: #212529;
+  /* background-color: #40a3e0; */
+  border-radius: 8px;
+  border: 3px solid #aeb9bb;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: rgb(153, 190, 214);
+}
+/*------------footer-----------------------*/
+footer {
+  background-color: #d1ddf3;
+  color: black;
+}
+#heart{
+  color: rgb(240, 46, 46);
+}
