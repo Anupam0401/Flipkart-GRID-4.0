@@ -1,5 +1,5 @@
 # Flipkart-GRID-4.0
-The repo contains our approach and idea to solve Level 2 problem statement (PS #3) in FLipkart GRID 4.0
+The repo contains our approach and idea to solve Level 2 problem statement (PS #3) in Flipkart GRID 4.0
 
 **Refer [this](https://github.com/Anupam0401/Flipkart-GRID-4.0/blob/master/DTYDHTCode.pdf) document for the solution submitted by our team DTYDHTCode**
 
