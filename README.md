@@ -8,6 +8,9 @@ used on Flipkart app.
 - Preferred tech: Open source
 - Bonus: Signal extraction from multiple social media channels (ex. FB, Instagram, Twitter, etc.)
 
+## Results
+The results can be viewed directly on this [hosted website](https://anupam0401.github.io/Flipkart-GRID-4.0/).
+
 
 ## Brief Approach
 - Scrape data from Twitter, Facebook, Instagram, etc.
@@ -15,6 +18,10 @@ used on Flipkart app.
 - Output the trends in a format that can be used on Flipkart app
 
 ## Get Started
+The data has been scrapped from from [twitter](https://twitter.com/) and some parts from [facebook](https://www.facebook.com/).
+The scrapper codes be run directly and the results improve every time we add more data and get the latest trends.
+
+### Prerequisite
 - Clone the repo
 - Run the following  commands in order:
     - create a virtual environment
@@ -25,3 +32,28 @@ used on Flipkart app.
     ```bash
     \env\Scripts\activate
     ```
+    - Install all the dependencies
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
+### Usages
+The requiremensts for running the code is fulfilled and the code can be run directly by following the commands below:
+- Run the following command to run the code
+    ```bash
+    python3 main.py
+    ```
+    - Run the following command to see the output
+    ```bash
+    python3 main.py --output
+    ```
+    - Run the following command to see the output in a web browser
+    ```bash
+    python3 main.py --output --browser
+    ```
+    - Run the following command to see the output in a web browser and open the output in a new tab
+    ```bash
+    python3 main.py --output --browser --new-tab
+    ```
+    
+
